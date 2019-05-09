@@ -1,8 +1,9 @@
 h1 {
-  color: red;
+  color: grey;
   text-align: center;
 }
 h2 {
+  color: orange;
   font-style: italic;
   text-align: center;
 }
@@ -10,9 +11,10 @@ p {
   font-family: sans-serif;
 }
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-family: sans-serif
+  font-weight: 900;
 }
 ol {
+  font-family: sans-serif
   font-weight: 900;
 }
